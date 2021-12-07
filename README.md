@@ -15,8 +15,9 @@ Linux için :
 ## Contributing
 Pull requested kabul edilebilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
-[license](https://choosealicense.com/licenses/mit/)
-![picture]("C:\Users\ipekk\OneDrive\Masaüstü\markdown.png")
+"[](https://choosealicense.com/licenses/mit/)""
+
+"![]("C:\Users\ipekk\OneDrive\Masaüstü\markdown.png")"
 
 
 
